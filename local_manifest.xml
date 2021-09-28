@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="orgs/LineageOS/repositories" name="LineageOS/android_device_xiaomi_twolip.git" remote="github" revision="lineage-18.1" />
+ <project path="orgs/LineageOS/repositories" name="LineageOS/android_device_xiaomi_sdm660-common.git" remote="github" revision="lineage-18.1" />
+ <project path="orgs/LineageOS/repositories" name="LineageOS/android_kernel_xiaomi_sdm660.git" remote="github" revision="lineage-18.1" />
+ 
+</manifest>
